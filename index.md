@@ -21,19 +21,19 @@ print() [WATER] [SUNLIGHT] [LOVE]
 
 ### OPTIONS
 
--w, ---water
+-w, \-\-water
 
 &nbsp;&nbsp;&nbsp;&nbsp;research has shown a watering of anytime between weekly to bimonthly  
 &nbsp;&nbsp;&nbsp;&nbsp;is okay as long as the dirt is dry. Water from bottom of pot, if  
 &nbsp;&nbsp;&nbsp;&nbsp;possible. Warning is to not over water. You do not need to water.  
   
--s, ---sunlight
+-s, \-\-sunlight
 
 &nbsp;&nbsp;&nbsp;&nbsp;bright, indirect light is preferred. However, for slower growth put  
 &nbsp;&nbsp;&nbsp;&nbsp;in a shady or low-light area. You may place in any convinent area  
 &nbsp;&nbsp;&nbsp;&nbsp;that isn't the trash.  
   
--l, ---love
+-l, \-\-love
 
 &nbsp;&nbsp;&nbsp;&nbsp;these guys are pretty sturdy so wiping down the dust from the leaves  
 &nbsp;&nbsp;&nbsp;&nbsp;with a moist cloth to allow more photosynthesis would be great but  
