@@ -1,6 +1,6 @@
 ## Print()
 <p align="left">
-    ## User Commands
+    <h2>print()</h2>
 </p>
 <p align="center">
     ## print() (1)
