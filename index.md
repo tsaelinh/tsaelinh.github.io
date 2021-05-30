@@ -10,14 +10,14 @@ print() [WATER] [SUNLIGHT] [LOVE]
 
 ### DESCRIPTION
 
-&nbsp;&nbsp;&nbsp;&nbsp;Hi! Thanks for taking care of print(). Print() (print-parent-parent) 
-&nbsp;&nbsp;&nbsp;&nbsp;is a snake plant that we got from IKEA and is a common house plant 
-&nbsp;&nbsp;&nbsp;&nbsp;known for its "air-purifying" features. We named it print() because 
-&nbsp;&nbsp;&nbsp;&nbsp;it is a snake plant and python is a snake and print() is one defining 
-&nbsp;&nbsp;&nbsp;&nbsp;features of python.
+&nbsp;&nbsp;&nbsp;&nbsp;Hi! Thanks for taking care of print(). Print() (print-parent-parent)  
+is a snake plant that we got from IKEA and is a common house plant   
+known for its "air-purifying" features. We named it print() because   
+it is a snake plant and python is a snake and print() is one defining   
+features of python.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Snake plants are very low maintenance (the reason why we decided to 
-&nbsp;&nbsp;&nbsp;&nbsp;bring it home). 
+&nbsp;&nbsp;&nbsp;&nbsp;Snake plants are very low maintenance (the reason why we decided to   
+bring it home). 
 
 ### OPTIONS
 
